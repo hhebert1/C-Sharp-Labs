@@ -1,0 +1,9 @@
+c:\users\hannah\documents\visual studio 2015\Projects\Lab5\Lab5\bin\Debug\Lab5.exe.config
+c:\Users\Hannah\documents\visual studio 2015\Projects\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+c:\Users\Hannah\documents\visual studio 2015\Projects\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+c:\Users\Hannah\documents\visual studio 2015\Projects\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+c:\Users\Hannah\documents\visual studio 2015\Projects\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.Cache
+c:\Users\Hannah\documents\visual studio 2015\Projects\Lab5\Lab5\bin\Debug\Lab5.exe
+c:\Users\Hannah\documents\visual studio 2015\Projects\Lab5\Lab5\bin\Debug\Lab5.pdb
+c:\Users\Hannah\documents\visual studio 2015\Projects\Lab5\Lab5\obj\Debug\Lab5.exe
+c:\Users\Hannah\documents\visual studio 2015\Projects\Lab5\Lab5\obj\Debug\Lab5.pdb
